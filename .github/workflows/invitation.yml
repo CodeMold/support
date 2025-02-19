@@ -9,14 +9,14 @@ jobs:
       - name: Invite on label
         uses: vj-abigo/invite-on-label@v1.2
         with:
-          organization: Devs-Dungeon
+          organization: ColdMold
           label: invite me to the organisation
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           comment: |
             <div align="center">
             <img src="https://user-images.githubusercontent.com/51391473/138764839-1011988e-66f2-4427-a8fc-e0380971df29.gif">
             <br>
-            <h1>Welcome to DEVs Dungeon 🎉</h1>
+            <h1>Welcome to ColdMold 🎉</h1>
             </div>
             <br>
             📌 Invitation sent to join the <b>GitHub Organization</b>. Check your mail to accept the invitation! 
@@ -24,9 +24,7 @@ jobs:
             <p>
               ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
               ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
-              ⭐ We are a community of <b>5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
             </p>
-            
-            Check out our [Bio](https://devs-dungeon.github.io/bio/) and [Discord](https://discord.apihacks.co) to get involved with us! 🚀
+      
         env:
           INVITE_TOKEN: ${{ secrets.INVITE_TOKEN }}
