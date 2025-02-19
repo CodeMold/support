@@ -1,6 +1,6 @@
-name: Invitation to the DEVs Dungeon GitHub Community Organization
+name: Invitation to the ColdMold Community Organization
 description: I would like to be part of the developers community
-title: "Please invite me to the DEVs Dungeon GitHub Community Organization"
+title: "Please invite me to the ColdMold Community Organization"
 labels: [invite me to the organisation]
 body:
   - type: input
@@ -27,6 +27,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        Join our Discord Community [here](https://discord.gg/ceMXzhfaka) to interact with 5k+ Developers from across the world!
-        Follow our LinkedIn Page [here](https://www.linkedin.com/company/devs-dungeon) for Internships, Jobs, Workshops, Events updates! 
-        Feel free to check out our Bio Link [here](https://devs-dungeon.github.io/bio/) 🔥
+        Follow our owner's LinkedIn Page [here](https://www.linkedin.com/in/anubhav-saxena-84438a249) for Internships, Jobs, Workshops, Events updates! 
