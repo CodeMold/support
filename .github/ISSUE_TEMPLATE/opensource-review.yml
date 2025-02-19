@@ -1,7 +1,7 @@
 name: Open Source Project Review
 description: Please review my project 
 title: "[REVIEW] <project name here>"
-labels: [open source review, live stream review]
+labels: [open source review]
 body:
   - type: markdown
     attributes:
