@@ -1,7 +1,7 @@
 name: GitHub Profile Review
 description: Please review my GitHub profile 
 title: "[REVIEW] <your-username>"
-labels: [gh profile review, live stream review]
+labels: gh profile review
 body:
   - type: input
     id: link
