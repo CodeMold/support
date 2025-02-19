@@ -1,7 +1,7 @@
 name: Portfolio Review
 description: Please review my Portfolio 
 title: "[REVIEW]"
-labels: [portfolio review, live stream review]
+labels: portfolio review
 body:
   - type: markdown
     attributes:
